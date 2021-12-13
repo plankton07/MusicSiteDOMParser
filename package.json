@@ -1,0 +1,12 @@
+{
+  "name": "toss_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "request": "^2.88.2"
+  }
+}
